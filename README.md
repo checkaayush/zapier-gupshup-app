@@ -14,6 +14,12 @@
 
 [Gupshup SMS API](http://enterprise.smsgupshup.com/doc/GatewayAPIDoc.pdf) integration with Zapier.
 
+## Why
+
+For sending non-promotional messages to Indian(+91) numbers, I've found [Gupshup](https://www.gupshup.io/developer/home) to be very reliable, even for numbers with `Do Not Disturb` (DND) enabled (these seem to fail on other Zapier apps like Twilio).
+
+> Note: I prefer and recommend the Zapier Twilio app for sending text messages and voice calls internationally.
+
 ## Development and Deployment
 
 Follow along [Zapier CLI Quick Start](https://zapier.com/developer/start/introduction) for instructions to get started.
@@ -33,8 +39,9 @@ Follow along [Zapier CLI Quick Start](https://zapier.com/developer/start/introdu
 
 ## TODO
 
-1. Add support for sending WhatsApp messages.
-2. Validate input arguments for things like phone numbers.
+- [ ] Add support for sending WhatsApp messages.
+- [ ] Validate input arguments for things like phone numbers.
+- [ ] Add demo screen recording with mobile emulator
 
 ## References
 
