@@ -25,7 +25,7 @@ module.exports = {
 
   display: {
     label: 'Send SMS',
-    description: 'Sends SMS.'
+    description: 'Sends SMS to given recipients.'
   },
 
   operation: {
