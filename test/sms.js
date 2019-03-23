@@ -21,7 +21,7 @@ describe('send SMS', () => {
         message: process.env.TEST_MESSAGE
       }
     };
-    appTester(App.created.sms.operation.perform, bundle)
+    appTester(App.creates.sms.operation.perform, bundle)
       .then((response) => {
         response.should.be.an.instanceOf(Object);
         // TODO: Add more robust tests.

@@ -1,11 +1,11 @@
 {
-  "name": "github-example-app",
+  "name": "zapier-gupshup-app",
   "version": "1.0.0",
-  "description": "An example app for the Zapier platform.",
-  "repository": "zapier/zapier-platform-app-github-example",
-  "homepage": "https://zapier.com/developer",
-  "author": "Zane Lyon <zane.lyon@zapier.com>",
-  "license": "BSD-3-Clause",
+  "description": "Zapier - Gupshup SMS Integration. Refer: http://enterprise.smsgupshup.com/doc/GatewayAPIDoc.pdf for Gupshup API specifications.",
+  "repository": "checkaayush/zapier-gupshup-app",
+  "homepage": "https://github.com/checkaayush/zapier-gupshup-app",
+  "author": "Aayush Sarva <checkaayush@gmail.com>",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --recursive"
