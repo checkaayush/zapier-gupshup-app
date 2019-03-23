@@ -31,6 +31,11 @@ Follow along [Zapier CLI Quick Start](https://zapier.com/developer/start/introdu
 
 - _Invalid SMS template:_ Gupshup SMS REST API has the concept of approval of SMS templates for transactional messages. You might need to get your SMS content template registered and approved before being able to send an SMS.
 
+## TODO
+
+1. Add support for sending WhatsApp messages.
+2. Validate input arguments for things like phone numbers.
+
 ## References
 
 1. [Zapier Developer Docs](https://zapier.com/developer/)
