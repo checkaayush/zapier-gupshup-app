@@ -2,7 +2,7 @@
   <img src="https://zapier.com/brand/assets/images/logos/zapier-logo.svg" height="100px"/>
   &nbsp;&nbsp;
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/800px-Heart_coraz%C3%B3n.svg.png" height="100px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/800px-Heart_coraz%C3%B3n.svg.png" height="80px"/>
   &nbsp;&nbsp;
 
   <img src="https://aithority.com/wp-content/uploads/2018/02/Gupshup-Logo.jpg" height="80px"/>
@@ -29,3 +29,7 @@ Follow along [Zapier CLI Quick Start](https://zapier.com/developer/start/introdu
 
 1. [Zapier Developer Docs](https://zapier.com/developer/)
 2. [Zapier CLI Docs](https://github.com/zapier/zapier-platform-cli)
+
+## Disclaimer
+
+This is not an official app by Zapier or Gupshup. Use it at your own discretion.
