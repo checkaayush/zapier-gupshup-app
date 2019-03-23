@@ -25,6 +25,12 @@ Follow along [Zapier CLI Quick Start](https://zapier.com/developer/start/introdu
 3. Copy contents of `.env.template` into a new file named `.env`.
 4. Run `zapier test`.
 
+## Troubleshooting
+
+- Run `zapier validate` to validate project structure locally if you encounter errors while pushing the app after making code changes.
+
+- _Invalid SMS template:_ Gupshup SMS REST API has the concept of approval of SMS templates for transactional messages. You might need to get your SMS content template registered and approved before being able to send an SMS.
+
 ## References
 
 1. [Zapier Developer Docs](https://zapier.com/developer/)
