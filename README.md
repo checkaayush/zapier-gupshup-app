@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zapier.com/brand/assets/images/logos/zapier-logo.svg" height="100px"/>
+  <img src="./assets/zapier-logo.svg" height="80px"/>
   &nbsp;&nbsp;
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/800px-Heart_coraz%C3%B3n.svg.png" height="80px"/>
